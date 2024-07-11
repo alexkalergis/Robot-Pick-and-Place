@@ -1,11 +1,8 @@
 ## Project Overview
 
-This project is a part of the Introduction to Robotics course in the Department of Electrical and Computer Engineering. It involves programming a KUKA youBot robot to perform a pick-and-place task using Python. The main objective is to automate the process of picking a cube from a conveyor belt and placing it into a designated box on a cart. This README provides an overview of the project, its objectives, methodologies, and key calculations.
+This project is a part of the Introduction to Robotics course in the Department of Electrical and Computer Engineering. It involves programming a KUKA youBot robot to perform a pick-and-place task using Python. The main objective is to automate the process of picking a cube from a conveyor belt and placing it into a designated box on a cart. 
 
-
-## Problem Statement
-
-The goal of this project is to program a KUKA youBot robot in a simulated environment to execute a pick-and-place operation. The task involves the following steps:
+The task involves the following steps:
 1. Move the robot to the conveyor belt where the cube is located.
 2. Adjust the robot's joints to pick up the cube.
 3. Transport the cube to a specified box on a cart and place it accurately.
